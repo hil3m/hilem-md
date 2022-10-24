@@ -192,7 +192,7 @@
         },
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
-            "NEED_REPLY": "_Reply to a photo or video!_",
+            "NEED_REPLY": "_AAAA!_",
             "DOWNLOADING": "```Media downloading & converting to sticker...```"
         },
         "system_stats": {
